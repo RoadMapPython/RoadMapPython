@@ -15,3 +15,4 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 | Filtros-de-Instagram | Google Colab | ---------------------------------------------- |
 | PyAutoGUI | Visual Studio Code | ----------------------------------------------------|
 | Live-jogo-da-forca | Visual Studio Code | https://www.youtube.com/watch?v=RqSXq9Yfd7o |
+| Minicurso-python| Visual Studio Code | -----------------------------------------------|
