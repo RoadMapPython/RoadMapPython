@@ -6,3 +6,7 @@
 ### Sobre Nós
 O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,como criar seu primeiro jogo ou automatizar uma tarefa cotidiana, o projeto é realizado por estudantes do Campus Rio Pomba, sendo um aluno da Graduação e um do Ensino Técnico, um projeto de alunos para alunos, seja bem vindo ao RoadMap Python.
 
+| Live | IDE | Link do Vídeo |
+|--- |--- |--- |
+| Criação de um jogo(Pedra, Papel e Tesoura) em python | Google Colab | https://www.youtube.com/watch?v=ol3LQBA2hDk |
+| Simulador da Vida de um Desensolvedor | Google Colab | https://www.youtube.com/watch?v=YfMynyYCaas |
