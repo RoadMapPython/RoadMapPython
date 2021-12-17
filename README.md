@@ -6,7 +6,7 @@
 ### Sobre Nós :computer:
 O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,como criar seu primeiro jogo ou automatizar uma tarefa cotidiana, o projeto é realizado por estudantes do Campus Rio Pomba, sendo um aluno da Graduação e um do Ensino Técnico, um projeto de alunos para alunos, seja bem vindo ao RoadMap Python.
 
-![Logo do Markdown](img/1.png)
+![Logo do Projeto](1.png)
 
 | Live | IDE | Link do Vídeo |
 |--- |--- |--- |
