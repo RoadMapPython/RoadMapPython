@@ -11,10 +11,10 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 | Live | IDE | Link do Vídeo |
 |--- |--- |--- |
 | Criação de um jogo(Pedra, Papel e Tesoura) em python | Google Colab |<a href="https://www.youtube.com/watch?v=ol3LQBA2hDk "><img src="2.png" width=70% height=50%></a> |
-| Simulador da Vida de um Desenvolvedor | Google Colab | <a href="https://www.youtube.com/watch?v=YfMynyYCaas "><img src="3.png" class="media-object  img-responsive img-thumbnail"></a>  |
-| Interface Gráfica Jokenpo | Visual Studio Code |<a href=" https://www.youtube.com/watch?v=1LpHxmqU4AE "><img src="6.png" class="media-object  img-responsive img-thumbnail"></a> |
+| Simulador da Vida de um Desenvolvedor | Google Colab | <a href="https://www.youtube.com/watch?v=YfMynyYCaas "><img src="3.png" width=70% height=50%></a>  |
+| Interface Gráfica Jokenpo | Visual Studio Code |<a href=" https://www.youtube.com/watch?v=1LpHxmqU4AE "><img src="6.png"width=70% height=50%></a> |
 | Web-Scrapping | Atom | ------------------------------------------------------------- |
 | Filtros-de-Instagram | Google Colab | ---------------------------------------------- |
 | PyAutoGUI | Visual Studio Code | ----------------------------------------------------|
-| Live-jogo-da-forca | Visual Studio Code |<a href="https://www.youtube.com/watch?v=RqSXq9Yfd7o  "><img src="4.png" class="media-object  img-responsive img-thumbnail"></a> |
+| Live-jogo-da-forca | Visual Studio Code |<a href="https://www.youtube.com/watch?v=RqSXq9Yfd7o  "><img src="4.png" width=70% height=50%></a> |
 | Minicurso-python| Visual Studio Code | -----------------------------------------------|
