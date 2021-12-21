@@ -8,13 +8,13 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 
 ![Banner twitch](https://user-images.githubusercontent.com/89279642/146934287-fc0a0100-b6aa-46bf-917d-097346e009ad.png)
 
-| Live | IDE | Link do Vídeo |
-|--- |--- |--- |
-| Criação de um jogo(Pedra, Papel e Tesoura) em python | Google Colab |<a href="https://www.youtube.com/watch?v=ol3LQBA2hDk "><img src="1.png" width=50% height=50% ></a> |
-| Simulador da Vida de um Desenvolvedor | Google Colab | <a href="https://www.youtube.com/watch?v=YfMynyYCaas ><img src="Simulador da vida de um desemvolvedor.png"width=50% height=50%></a> |
-| Interface Gráfica Jokenpo | Visual Studio Code |<a href=" https://www.youtube.com/watch?v=1LpHxmqU4AE "><img src="Interface gráfica jokenpo.png"width=50% height=50%></a> |
-| Web-Scrapping | Atom | ------------------------------------------------------------- |
-| Filtros-de-Instagram | Google Colab | ---------------------------------------------- |
-| PyAutoGUI | Visual Studio Code | ----------------------------------------------------|
-| Live-jogo-da-forca | Visual Studio Code |<a href="https://www.youtube.com/watch?v=RqSXq9Yfd7o  "><img src="Jogo da forca.png" width=50% height=50%></a> |
-| Minicurso-python| Visual Studio Code | -----------------------------------------------|
+| Live | IDE | Link do Vídeo |Codigos|
+|--- |--- |--- |--- |
+| Criação de um jogo(Pedra, Papel e Tesoura) em python | Google Colab |<a href="https://www.youtube.com/watch?v=ol3LQBA2hDk "><img src="1.png" width=50% height=50% ></a> |---|
+| Simulador da Vida de um Desenvolvedor | Google Colab | <a href="https://www.youtube.com/watch?v=YfMynyYCaas ><img src="Simulador da vida de um desemvolvedor.png"width=50% height=50%></a> |---|
+| Interface Gráfica Jokenpo | Visual Studio Code |<a href=" https://www.youtube.com/watch?v=1LpHxmqU4AE "><img src="Interface gráfica jokenpo.png"width=50% height=50%></a> |---|
+| Web-Scrapping | Atom | ------------------------------------------------------------- |---|
+| Filtros-de-Instagram | Google Colab | ---------------------------------------------- |---|
+| PyAutoGUI | Visual Studio Code | ----------------------------------------------------|---|
+| Live-jogo-da-forca | Visual Studio Code |<a href="https://www.youtube.com/watch?v=RqSXq9Yfd7o  "><img src="Jogo da forca.png" width=50% height=50%></a> |---|
+| Minicurso-python| Visual Studio Code | -----------------------------------------------|---|
