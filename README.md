@@ -10,7 +10,7 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 
 | Live | IDE | Link do Vídeo |
 |--- |--- |--- |
-| Criação de um jogo(Pedra, Papel e Tesoura) em python | Google Colab |<a href="https://www.youtube.com/watch?v=ol3LQBA2hDk "><img src="https://github.com/RoadMapPython/RoadMapPython/issues/2#issue-1085811122" ></a> |
+| Criação de um jogo(Pedra, Papel e Tesoura) em python | Google Colab |<a href="https://www.youtube.com/watch?v=ol3LQBA2hDk "><img src="https://github.com/RoadMapPython/RoadMapPython/blob/1c367f2a29f54eba333b65c221188f195a5da4ae/1.png" ></a> |
 | Simulador da Vida de um Desenvolvedor | Google Colab | <a href="https://www.youtube.com/watch?v=YfMynyYCaas "><img src="3.png" width=70% height=50%></a>  |
 | Interface Gráfica Jokenpo | Visual Studio Code |<a href=" https://www.youtube.com/watch?v=1LpHxmqU4AE "><img src="6.png"width=70% height=50%></a> |
 | Web-Scrapping | Atom | ------------------------------------------------------------- |
