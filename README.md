@@ -15,6 +15,6 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 | Interface Gráfica Jokenpo | Visual Studio Code |<a href=" https://www.youtube.com/watch?v=1LpHxmqU4AE "><img src="Interface gráfica jokenpo.png"></a> |---|
 | Web-Scrapping | Atom | <img src="Web Scraping.png"> |---|
 | Filtros-de-Instagram | Google Colab | <img src="Filtros de Instagram.png"> |---|
-| PyAutoGUI | Visual Studio Code | |---|
+| PyAutoGUI | Visual Studio Code | <img src="PyautoGUI.png">|---|
 | Live-jogo-da-forca | Visual Studio Code |<a href="https://www.youtube.com/watch?v=RqSXq9Yfd7o  "><img src="Jogo da forca.png"></a> |---|
 | Minicurso-python| Visual Studio Code | <img src="">|---|
