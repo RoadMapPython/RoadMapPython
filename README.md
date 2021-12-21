@@ -13,8 +13,8 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 | Criação de um jogo(Pedra, Papel e Tesoura) em python | Google Colab |<a href="https://www.youtube.com/watch?v=ol3LQBA2hDk "><img src="1.png"  ></a> |---|
 | Simulador da Vida de um Desenvolvedor | Google Colab | <a href="https://www.youtube.com/watch?v=YfMynyYCaas ><img src="Simulador da vida de um desemvolvedor.png"></a> |---|
 | Interface Gráfica Jokenpo | Visual Studio Code |<a href=" https://www.youtube.com/watch?v=1LpHxmqU4AE "><img src="Interface gráfica jokenpo.png"></a> |---|
-| Web-Scrapping | Atom | ------------------------------------------------------------- |---|
-| Filtros-de-Instagram | Google Colab | ---------------------------------------------- |---|
-| PyAutoGUI | Visual Studio Code | ----------------------------------------------------|---|
+| Web-Scrapping | Atom | <img src="Web Scraping.png"> |---|
+| Filtros-de-Instagram | Google Colab |  |---|
+| PyAutoGUI | Visual Studio Code | <img src="Interface gráfica jokenpo.png">|---|
 | Live-jogo-da-forca | Visual Studio Code |<a href="https://www.youtube.com/watch?v=RqSXq9Yfd7o  "><img src="Jogo da forca.png"></a> |---|
-| Minicurso-python| Visual Studio Code | -----------------------------------------------|---|
+| Minicurso-python| Visual Studio Code | <img src="Interface gráfica jokenpo.png">|---|
