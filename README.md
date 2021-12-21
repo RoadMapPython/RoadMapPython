@@ -10,7 +10,7 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 
 | Live | IDE | Link do Vídeo |
 |--- |--- |--- |
-| Criação de um jogo(Pedra, Papel e Tesoura) em python | Google Colab |<a href="https://www.youtube.com/watch?v=ol3LQBA2hDk "><img src="https://github.com/RoadMapPython/RoadMapPython/blob/1c367f2a29f54eba333b65c221188f195a5da4ae/1.png" ></a> |
+| Criação de um jogo(Pedra, Papel e Tesoura) em python | Google Colab |<a href="https://www.youtube.com/watch?v=ol3LQBA2hDk "><img src="https://github.com/RoadMapPython/RoadMapPython/blob/1c367f2a29f54eba333b65c221188f195a5da4ae/1.png"width=50% height=50% ></a> |
 | Simulador da Vida de um Desenvolvedor | Google Colab | <a href="https://www.youtube.com/watch?v=YfMynyYCaas ><img src="https://github.com/RoadMapPython/RoadMapPython/blob/df55db1f793609e4662397edc6163ffb60bbe5cc/Simulador%20da%20vida%20de%20um%20desemvolvedor.png"width=50% height=50%></a> |
 | Interface Gráfica Jokenpo | Visual Studio Code |<a href=" https://www.youtube.com/watch?v=1LpHxmqU4AE "><img src="https://github.com/RoadMapPython/RoadMapPython/blob/df55db1f793609e4662397edc6163ffb60bbe5cc/Interface%20gr%C3%A1fica%20jokenpo.png"width=50% height=50%></a> |
 | Web-Scrapping | Atom | ------------------------------------------------------------- |
