@@ -17,5 +17,5 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 | Web-Scrapping | Atom | <img src="Web Scraping.png"> |---|
 | Filtros-de-Instagram | Google Colab | <img src="Filtros de Instagram.png"> |---|
 | PyAutoGUI | Visual Studio Code | <img src="PyautoGUI.png">|---|
-| Live-jogo-da-forca | Visual Studio Code |<a href="https://www.youtube.com/watch?v=RqSXq9Yfd7o  "><img src="Jogo da forca.png"></a> |---|
-| Minicurso-python| Visual Studio Code |<a href="https://www.youtube.com/watch?v=DQZ6fMfsrWs"><img src="Minicurso Python.png">|---|
+| Live-jogo-da-forca | Visual Studio Code |<a href="https://www.youtube.com/watch?v=RqSXq9Yfd7o  "><img src="Jogo da forca.png"></a> |[Repositório Aqui!](https://github.com/RoadMapPython/Live-jogo-da-forca)|
+| Minicurso-python| Visual Studio Code |<a href="https://www.youtube.com/watch?v=DQZ6fMfsrWs"><img src="Minicurso Python.png">|[Repositório Aqui!](https://github.com/RoadMapPython/Minicurso-python)|
