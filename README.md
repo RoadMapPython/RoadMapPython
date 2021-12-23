@@ -8,7 +8,7 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 
 ![Banner twitch](https://user-images.githubusercontent.com/89279642/146934287-fc0a0100-b6aa-46bf-917d-097346e009ad.png)
 
-| Live | IDE | Link do Vídeo |Codigos|
+| Live | IDE | Link do Vídeo |Códigos|
 |--- |--- |--- |--- |
 | Criação de um jogo(Pedra, Papel e Tesoura) em python | Google Colab |<a href="https://www.youtube.com/watch?v=ol3LQBA2hDk "><img src="1.png"></a>|[Repositório Aqui!](https://github.com/RoadMapPython/Pedra-papel-e-tesoura)|
 | Simulador da Vida de um Desenvolvedor | Google Colab | <a href="https://www.youtube.com/watch?v=YfMynyYCaas" > <img src="Simulador da vida de um desemvolvedor.png"></a> |[Repositório Aqui!](https://github.com/RoadMapPython/Simulador-Vida-de-um-des)|
