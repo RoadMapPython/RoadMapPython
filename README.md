@@ -19,4 +19,4 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 | Live-jogo-da-forca | Visual Studio Code |<a href="https://www.youtube.com/watch?v=RqSXq9Yfd7o  "><img src="Jogo da forca.png"></a> |[Repositório Aqui!](https://github.com/RoadMapPython/Live-jogo-da-forca)|
 | Minicurso-python| Visual Studio Code |<a href="https://www.youtube.com/watch?v=DQZ6fMfsrWs"><img src="Minicurso Python.png">|[Repositório Aqui!](https://github.com/RoadMapPython/Minicurso-python)|
 | Manipulando documentos em Python | Jupyter notebook | <img src="Manipulando documentos.png">|[Repositório Aqui!](https://github.com/RoadMapPython/Manipulando-documentos-em-python)|
-| Relógio gráfico e introdução ao GIT | Visual Studio Code | <img src="Relógio gráfico e introdução ao GIT">|[Repositório Aqui!](https://github.com/RoadMapPython/PyAutoGUI)|
+| Relógio gráfico e introdução ao GIT | Visual Studio Code | <img src="Relógio gráfico e introdução ao GIT.png">|[Repositório Aqui!](https://github.com/RoadMapPython/PyAutoGUI)|
