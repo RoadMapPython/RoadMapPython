@@ -16,7 +16,7 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 | Web-Scraping | Atom | <a href="https://youtu.be/1-_82lQSGLU"><img src="Web Scraping.png"></a> |[Repositório Aqui!](https://github.com/RoadMapPython/Web-Scraping)|
 | Python e OpenCV | Visual Studio Code | <a href="https://www.youtube.com/watch?v=Y21jK7Dl3-Y">Link da Live</a>|[Repositório Aqui!](https://github.com/RoadMapPython/Conceitos-Iniciais-Open-Cv)|
 | Filtros-de-Instagram | Google Colab | <a href="https://youtu.be/_qsDDYXxqao"><img src="Filtros de Instagram.png"></a> |[Repositório Aqui!](https://github.com/RoadMapPython/Filtros-de-Instagram)|
-| PyAutoGUI | Visual Studio Code | <a href="OMWavDZB5Ik"><img src="PyautoGUI.png"></a>|[Repositório Aqui!](https://github.com/RoadMapPython/PyAutoGUI)|
+| PyAutoGUI | Visual Studio Code | <a href="https://www.youtube.com/watch?v=OMWavDZB5Ik"><img src="PyautoGUI.png"></a>|[Repositório Aqui!](https://github.com/RoadMapPython/PyAutoGUI)|
 | Live-jogo-da-forca | Visual Studio Code |<a href="https://www.youtube.com/watch?v=RqSXq9Yfd7o"><img src="Jogo da forca.png"></a> |[Repositório Aqui!](https://github.com/RoadMapPython/Live-jogo-da-forca)|
 | Minicurso-python| Visual Studio Code |<a href="https://www.youtube.com/watch?v=DQZ6fMfsrWs"><img src="Minicurso Python.png">|[Repositório Aqui!](https://github.com/RoadMapPython/Minicurso-python)|
 | Manipulando documentos em Python | Jupyter notebook |  <a href="https://www.youtube.com/watch?v=QeIH9CNZjg4"><img src="Manipulando documentos.png"></a>|[Repositório Aqui!](https://github.com/RoadMapPython/Manipulando-documentos-em-python)|
