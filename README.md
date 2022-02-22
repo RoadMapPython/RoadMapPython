@@ -1,4 +1,4 @@
-:sparkles: :sparkles:  Olá a todos, Sejam Bem Vindos!  :sparkles: :sparkles:
+:sparkles: :sparkles:  Olá a todos, Sejam Bem Vindos(as)!  :sparkles: :sparkles:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RoadMapPython)](https://github.com/RoadMapPython)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DACCIFSudesteMG/featured)](https://www.youtube.com/c/DACCIFSudesteMG/featured) 
