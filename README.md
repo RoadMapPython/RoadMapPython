@@ -14,7 +14,7 @@ O projeto RoadMap Python veio para difundir conhecimentos da linguagem Python,co
 | Simulador da Vida de um Desenvolvedor | Google Colab | <a href="https://www.youtube.com/watch?v=YfMynyYCaas" > <img src="Simulador da vida de um desemvolvedor.png"></a> |[Repositório Aqui!](https://github.com/RoadMapPython/Simulador-Vida-de-um-des)|
 | Interface Gráfica Jokenpo | Visual Studio Code |<a href="https://www.youtube.com/watch?v=1LpHxmqU4AE"><img src="Interface gráfica jokenpo.png"></a> |[Repositório Aqui!](https://github.com/RoadMapPython/Interface-Grafica)|
 | Web-Scraping | Atom | <a href="https://youtu.be/1-_82lQSGLU"><img src="Web Scraping.png"></a> |[Repositório Aqui!](https://github.com/RoadMapPython/Web-Scraping)|
-| Python e OpenCV | Visual Studio Code | <a href="https://www.youtube.com/watch?v=Y21jK7Dl3-Y">Link da Live</a>|[Repositório Aqui!](https://github.com/RoadMapPython/Conceitos-Iniciais-Open-Cv)|
+| Conceitos iniciais de OpenCv | Visual Studio Code | <a href="https://www.youtube.com/watch?v=Y21jK7Dl3-Y"><img src="Conceitos iniciais de opencv.png"></a>|[Repositório Aqui!](https://github.com/RoadMapPython/Conceitos-Iniciais-Open-Cv)|
 | Filtros-de-Instagram | Google Colab | <a href="https://youtu.be/_qsDDYXxqao"><img src="Filtros de Instagram.png"></a> |[Repositório Aqui!](https://github.com/RoadMapPython/Filtros-de-Instagram)|
 | PyAutoGUI | Visual Studio Code | <a href="https://www.youtube.com/watch?v=OMWavDZB5Ik"><img src="PyautoGUI.png"></a>|[Repositório Aqui!](https://github.com/RoadMapPython/PyAutoGUI)|
 | Live-jogo-da-forca | Visual Studio Code |<a href="https://www.youtube.com/watch?v=RqSXq9Yfd7o"><img src="Jogo da forca.png"></a> |[Repositório Aqui!](https://github.com/RoadMapPython/Live-jogo-da-forca)|
